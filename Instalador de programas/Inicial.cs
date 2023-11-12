@@ -23,8 +23,8 @@ namespace Instalador_de_programas
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Confguracoes form2 = new Confguracoes();
-            form2.Show();
+            Progresso progresso = new Progresso();
+            progresso.Show();
         }
 
         private void label2_Click(object sender, EventArgs e)

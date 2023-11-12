@@ -55,13 +55,13 @@ namespace Instalador_de_programas
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Confguracoes form2 = new Confguracoes();
-            form2.Show();
+            Inicial inicial = new Inicial();
+            inicial.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            using (var fbd = new FolderBrowserDialog())
+            using (FolderBrowserDialog fbd = new FolderBrowserDialog())
             {
                 DialogResult result = fbd.ShowDialog();
 
@@ -71,14 +71,14 @@ namespace Instalador_de_programas
                     string destDir = fbd.SelectedPath + ".\\Master Softwares";
                     CopyAll(sourceDir, destDir);
                     this.Hide();
-                    Final form3 = new Final();
-                    form3.Show();
+                    Final final = new Final();
+                    final.Show();
                 } 
                 else if (result == DialogResult.Cancel)
                 {
                     this.Hide();
-                    Progresso form4 = new Progresso();
-                    form4.Show();  
+                    Progresso progresso = new Progresso();
+                    progresso.Show();  
                 }
             }
         }
