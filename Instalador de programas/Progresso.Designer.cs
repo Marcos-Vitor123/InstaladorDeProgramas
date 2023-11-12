@@ -48,9 +48,10 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(12, 25);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(204, 20);
+            this.label2.Size = new System.Drawing.Size(339, 20);
             this.label2.TabIndex = 12;
-            this.label2.Text = "Progresso da Instalação";
+            this.label2.Text = "Configurações e progresso da Instalação";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // progressBar1
             // 

@@ -82,5 +82,10 @@ namespace Instalador_de_programas
                 }
             }
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
