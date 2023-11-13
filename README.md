@@ -1,6 +1,6 @@
 # Instalador de programas e arquivos
 
-<img alt="logo C# e .NET" src="Instalador de programas/img/CSharpdotNet.PNG">
+<img alt="C# e .NET" src="Instalador de programas/img/CSharpdotNet.png">
 
 ## Introdução
 
@@ -26,8 +26,8 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT-4 da Micr
 - [ ] Adicionar um desinstalador
 - [ ] Desenvolver outro projeto de criação de setup
   - Pois o usuário poderé adicionar a pasta ou arquivos diretamente ao instalador com interface gráfica, gerando assim o executável instalador proposto aqui
-- [ ] Desenvolver um compilador, onde tranforme todos os arquivos em um executável fechado ou comprimido em um outro formato
-- [ ] Melhorar o programa, como colocar possibilidade de além de adicionar arquivos, também ícones e imagens
+- [ ] Desenvolver um compilador, onde transforme todos os arquivos em um executável fechado ou comprimido em um outro formato
+- [ ] Melhorar o programa, como colocar possibilidade de além de adicionar arquivos, também ícones e imagens ao instalador criado
 
 ## Exemplos de funcionalidades do programa
 
