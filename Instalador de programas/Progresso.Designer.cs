@@ -59,6 +59,7 @@
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(394, 54);
             this.progressBar1.TabIndex = 13;
+            this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
             // 
             // button3
             // 
@@ -118,6 +119,7 @@
             this.label3.Size = new System.Drawing.Size(246, 16);
             this.label3.TabIndex = 19;
             this.label3.Text = "4) E aguarde a instalação ser concluída!";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label5
             // 
@@ -128,6 +130,7 @@
             this.label5.Size = new System.Drawing.Size(246, 16);
             this.label5.TabIndex = 20;
             this.label5.Text = "2) Depois escolha o local de instalação!";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -138,6 +141,7 @@
             this.label4.Size = new System.Drawing.Size(177, 16);
             this.label4.TabIndex = 21;
             this.label4.Text = "3) Em seguida clique em Ok!";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label6
             // 
@@ -148,6 +152,7 @@
             this.label6.Size = new System.Drawing.Size(130, 16);
             this.label6.TabIndex = 22;
             this.label6.Text = "1) Clique em Instalar!";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // Progresso
             // 

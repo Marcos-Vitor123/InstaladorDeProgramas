@@ -78,6 +78,7 @@
             this.label3.Size = new System.Drawing.Size(155, 20);
             this.label3.TabIndex = 4;
             this.label3.Text = "Master Softwares!";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -116,6 +117,7 @@
             this.label1.Size = new System.Drawing.Size(209, 16);
             this.label1.TabIndex = 8;
             this.label1.Text = "Clique em próximo para continuar!";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Inicial
             // 

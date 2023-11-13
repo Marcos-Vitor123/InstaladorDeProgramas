@@ -101,6 +101,7 @@
             this.label2.Size = new System.Drawing.Size(288, 20);
             this.label2.TabIndex = 11;
             this.label2.Text = "Instalação concluída com sucesso!";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -111,6 +112,7 @@
             this.label1.Size = new System.Drawing.Size(203, 16);
             this.label1.TabIndex = 15;
             this.label1.Text = "Clique em Finalizar para concluir!";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Final
             // 
