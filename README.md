@@ -44,6 +44,6 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT4 da Micro
 ### Tela de carregamento do progresso da inatalação
 ![Tela de carregamento do progresso da inatalação](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/c6c3a354c51d7f393f992ea6faf8e744fb10b4c4/Instalador%20de%20programas/progresso.PNG)
 
-### Tela inicial
-![logo C# e .NET]()
+### Tela do fim da instalação
+![imagem tela do fim da instalação](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/5aeb236688eb7ed3fb8c0842b172cb71f0b37101/Instalador%20de%20programas/final.PNG)
 
