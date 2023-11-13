@@ -1,1 +1,1 @@
-# Instalador de programas
+# Instalador de programas e arquivos
