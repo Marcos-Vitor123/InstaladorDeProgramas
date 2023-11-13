@@ -32,5 +32,17 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT4 da Micro
 ## Exemplos de funcionalidades do programa
 
 ### Tela inicial
-![logo C# e .NET](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/e6db10c301a2dd2e042c2c217c4c095607cf4bfb/Instalador%20de%20programas/inicial.PNG)
+![imagem tela inicial do programa](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/e6db10c301a2dd2e042c2c217c4c095607cf4bfb/Instalador%20de%20programas/inicial.PNG)
+
+### Tela inicial
+![logo C# e .NET]()
+
+### Tela inicial
+![logo C# e .NET]()
+
+### Tela inicial
+![logo C# e .NET]()
+
+### Tela inicial
+![logo C# e .NET]()
 
