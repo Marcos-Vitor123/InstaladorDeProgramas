@@ -1,5 +1,7 @@
 # Instalador de programas e arquivos
 
+![logo C# e .NET](.\C#.NET_1.WEBP)
+
 ## Introdução
 
 Basicamente é um projeto que executa um instalador de programas e arquivos extremamente simples. Para instalar um jogo por exemplo, é preciso ter todos os arquivos  e pastas necessárias, incluida no projeto.
