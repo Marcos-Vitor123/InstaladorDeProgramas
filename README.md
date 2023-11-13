@@ -1,6 +1,6 @@
 # Instalador de programas e arquivos
 
-![logo C# e .NET](Instalador de programas\C#.NET_1.WEBP)
+![logo C# e .NET](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/82e2fb381c0c3dcc09771474277e80dacd238935/Instalador%20de%20programas/C%23.NET_1.webp)
 
 ## Introdução
 
