@@ -1,6 +1,6 @@
 # Instalador de programas e arquivos
 
-<img alt="logo C# e .NET" src="Instalador de programas\img\C#.NET_1.WEBP">
+<img alt="logo C# e .NET" src="Instalador de programas/img/CSharpdotNet.PNG">
 
 ## Introdução
 
@@ -32,18 +32,17 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT-4 da Micr
 ## Exemplos de funcionalidades do programa
 
 ### Tela inicial
-![imagem tela inicial do programa](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/e6db10c301a2dd2e042c2c217c4c095607cf4bfb/Instalador%20de%20programas/inicial.PNG)
+<img alt="Tela inicial do programa" src="Instalador de programas/img/inicial.PNG">
 
 ### Tela de configurações e progresso
-![imagem tela de confiurações e progresso](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/469edb88889fa0eeb2b43ec3006f4b2ff5ef6680/Instalador%20de%20programas/configuracoes.PNG)
-
+<img alt="Tela de configurações e progresso" src="Instalador de programas/img/instalar.PNG">
 
 ### Tela do explorer
-![imagem tela do explorer](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/469edb88889fa0eeb2b43ec3006f4b2ff5ef6680/Instalador%20de%20programas/explorer.PNG)
+<img alt="Tela do explorer" src="Instalador de programas/img/explorer.PNG">
 
-### Tela de carregamento do progresso da inatalação
-![Tela de carregamento do progresso da inatalação](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/c6c3a354c51d7f393f992ea6faf8e744fb10b4c4/Instalador%20de%20programas/progresso.PNG)
+### Tela de carregamento do progresso da instalação
+<img alt="Tela de carregamento do progresso da instalação" src="Instalador de programas/img/progresso.PNG">
 
 ### Tela do fim da instalação
-![imagem tela do fim da instalação](https://github.com/Marcos-Vitor123/Instalador-de-programas-/blob/5aeb236688eb7ed3fb8c0842b172cb71f0b37101/Instalador%20de%20programas/final.PNG)
+<img alt="Tela do fim da instalação" src="Instalador de programas/img/final.PNG">
 
