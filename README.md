@@ -1,6 +1,6 @@
 # Instalador de programas e arquivos
 
-![logo C# e .NET](.\C#.NET_1.WEBP)
+![logo C# e .NET](Instalador de programas\C#.NET_1.WEBP)
 
 ## Introdução
 
