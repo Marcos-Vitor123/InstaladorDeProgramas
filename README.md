@@ -23,11 +23,11 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT4 da Micro
 
 ## Implementações futuras
 
-- Adicionar um desinstalador
-- Desenvolver outro projeto de criação
-  - Pois o usuário poderé adicionar a pasta ou arquivos diretamente ao intalador com interface gráfica, gerando assim o executável instalador proposto
-- Desenvolver um compilador, onde tranforme todos os arquivos em um executável fechado ou comprimido em um outro formato
-- Melhorar o programa, como colocar possibilidade de além de adicionar arquivos, também ícones e imagens
+- [ ] Adicionar um desinstalador
+- [ ] Desenvolver outro projeto de criação de setup
+  - Pois o usuário poderé adicionar a pasta ou arquivos diretamente ao instalador com interface gráfica, gerando assim o executável instalador proposto aqui
+- [ ] Desenvolver um compilador, onde tranforme todos os arquivos em um executável fechado ou comprimido em um outro formato
+- [ ] Melhorar o programa, como colocar possibilidade de além de adicionar arquivos, também ícones e imagens
 
 ## Exemplos de funcionalidades do programa
 
