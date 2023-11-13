@@ -1,6 +1,6 @@
 # Instalador de programas e arquivos
 
-<img alt="logo C# e .NET" src="Instalador de programas/img/CSharpdotNet.PNG">
+<img alt="C# e .NET" src="Instalador de programas/img/CSharpdotNet.PNG">
 
 ## Introdução
 
