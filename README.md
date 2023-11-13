@@ -20,3 +20,10 @@ No decorrer do projeto recorri a ajuda de documentações e o chat GPT4 da Micro
 
 ## Versão do programa
 - v1.0.0.0
+
+## Implementações futuras
+
+- Adicionar um desinstalador
+- Desenvolver outro projeto de criação
+  - Pois o usuário poderé adicionar a pasta ou arquivos diretamente ao intalador com interface gráfica, gerando assim o executável instalador proposto
+-
