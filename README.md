@@ -8,7 +8,7 @@ Basicamente é um projeto que executa um instalador de programas e arquivos extr
 
 ## Objetivos
 
-O objetivos desse projeto é por em prática o que estou aprendendo na linguagem C# em paralello com interface gráfica do Framework .NET. Confesso que não tenho uma bagagem muito boa. Mas a medidada que vou adquirindo conhecimentos no estudos, vou fazer implementações nesse projeto e desenvolvolver outros.
+O objetivos desse projeto é por em prática o que estou aprendendo na linguagem C# em paralello com interface gráfica usando o Framework .NET. Confesso que não tenho uma bagagem muito boa. Mas a medida que vou adquirindo conhecimentos no estudos, vou fazer implementações nesse projeto e desenvolvolver outros.
 
 ## Desenvolvimento
 
